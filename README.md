@@ -12,14 +12,15 @@ This project analyzes retail sales data using Python to gain insights into custo
 - Discover the top customers based on total revenue.
 - Visualize key business insights using charts.
 
-## Features
+## Project Workflow
 
-- Data preprocessing and cleaning
-- Revenue analysis by product category
-- Monthly sales trend analysis
-- Top 10 customers by revenue
-- Data visualization with bar charts
-- Business insights and recommendations
+1.	Load the retail sales dataset.
+2.	Clean and preprocess the data.
+3.	Perform exploratory data analysis (EDA).
+4.	Analyze revenue by product category.
+5.	Analyze monthly revenue trends.
+6.	Identify the top 10 customers by revenue.
+7.	Create visualizations to present key insights.
 
 ## Technologies Used
 
@@ -27,20 +28,6 @@ This project analyzes retail sales data using Python to gain insights into custo
 - Pandas
 - NumPy
 - Matplotlib
-
-## Project Structure
-
-```
-Retail-Sales-Analysis/
-│
-├── Retail_Sales_Analysis.ipynb
-├── retail_sales.csv
-├── README.md
-└── images/
-    ├── revenue_by_category.png
-    ├── monthly_revenue_trend.png
-    └── top_customers.png
-```
 
 ## Analysis Performed
 
