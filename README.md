@@ -55,6 +55,9 @@ Measures the total units sold within each product category. This highlights topâ
 ### 8. Day-of-Week Sales Pattern
 Analyzes sales distribution across each day of the week. This reveals peak shopping days and helps optimize promotions and staffing.
 
+## Images
+/images/product_category.png
+
 ## Key Insights
 
 - Clothing generated the highest overall revenue.
