@@ -56,7 +56,7 @@ Measures the total units sold within each product category. This highlights topâ
 Analyzes sales distribution across each day of the week. This reveals peak shopping days and helps optimize promotions and staffing.
 
 ## Images
-[images/product_category.png](images/product_category.png)
+(images/product_category.png)
 
 ## Key Insights
 
