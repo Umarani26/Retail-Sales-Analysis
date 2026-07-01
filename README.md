@@ -33,6 +33,7 @@ This project analyzes retail sales data using Python to gain insights into custo
 
 ### 1. Revenue by Product Category
 The analysis compares total revenue across different product categories to identify the highest-performing products.
+[images/product_category.png]
 
 ### 2. Monthly Revenue Trend
 Monthly revenue is analyzed to understand sales patterns, seasonal variations, and business performance over time.
